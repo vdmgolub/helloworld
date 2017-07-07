@@ -1,5 +1,5 @@
 class Greeter
-  def hello(name)
-    puts "Hello #{name}!"
+  def hello
+    puts "Hello world"
   end
 end
