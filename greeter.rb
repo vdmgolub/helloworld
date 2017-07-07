@@ -7,6 +7,10 @@ class Greeter
     say "Bye-bye!"
   end
 
+  def sup
+    puts "What's up?"
+  end
+
   def say(message)
     puts message
   end
